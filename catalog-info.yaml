@@ -4,6 +4,7 @@ metadata:
   name: Test
   annotations:
     github.com/project-slug: ivn4825/Test
+    backstage.io/techdocs-ref: value
 spec:
   type: api
   lifecycle: unknown
