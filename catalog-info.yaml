@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: ivn4825/Test
 spec:
-  type: other
+  type: api
   lifecycle: unknown
   owner: guests
